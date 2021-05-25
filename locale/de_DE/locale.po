@@ -18,7 +18,7 @@ msgid "plugins.generic.citationStyleLanguage.displayName"
 msgstr "Citation Style Language"
 
 msgid "plugins.generic.citationStyleLanguage.description"
-msgstr "Ermöglicht es Leser/innen, die bibliografischen Angaben für einen veröffentlichten Artikel in einem von mehreren Formaten in der Citation Style Language zu erhalten."
+msgstr "Ermöglicht es Leser/innen, die bibliografischen Angaben für ein veröffentlichtes Buch oder Kapitel in einem von mehreren Formaten in der Citation Style Language zu erhalten."
 
 msgid "plugins.generic.citationStyleLanguage.style.acm-sig-proceedings"
 msgstr "ACM"
@@ -81,3 +81,6 @@ msgstr ""
 
 msgid "plugins.generic.citationStyleLanguage.settings.publisherLocation"
 msgstr "Standort des Verlags"
+
+msgid "plugins.generic.citationStyleLanguage.style.ub-heidelberg"
+msgstr "Heidelberg"

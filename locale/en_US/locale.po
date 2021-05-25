@@ -15,7 +15,7 @@ msgid "plugins.generic.citationStyleLanguage.displayName"
 msgstr "Citation Style Language"
 
 msgid "plugins.generic.citationStyleLanguage.description"
-msgstr "Allow readers to get a published article's citation in one of several formats supported by the Citation Style Language."
+msgstr "Allow readers to get a published book's or chapter's citation in one of several formats supported by the Citation Style Language."
 
 msgid "plugins.generic.citationStyleLanguage.style.acm-sig-proceedings"
 msgstr "ACM"
@@ -76,3 +76,6 @@ msgstr "Publisher Location"
 
 msgid "plugins.generic.citationStyleLanguage.settings.publisherLocation.description"
 msgstr "Some citation formats request the geographic location of the publisher, such as \"London, U.K.\"."
+
+msgid "plugins.generic.citationStyleLanguage.style.ub-heidelberg"
+msgstr "Heidelberg"
