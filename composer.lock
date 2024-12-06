@@ -12,7 +12,7 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/citation-style-language/locales.git",
-                "reference": "master"
+                "reference": "v1.0.2"
             },
             "type": "library"
         },
@@ -81,7 +81,7 @@
         },
         {
             "name": "seboettg/citeproc-php",
-            "version": "v2.5.2",
+            "version": "v2.6.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/seboettg/citeproc-php.git",

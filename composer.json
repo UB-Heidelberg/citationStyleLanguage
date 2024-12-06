@@ -1,7 +1,7 @@
 {
 	"require": {
 		"citation-style-language/locales":"@dev",
-		"seboettg/citeproc-php": "^2.4.1"
+		"seboettg/citeproc-php": "^v2.6.1"
 	},
 	"config": {
 		"vendor-dir": "lib/vendor",
@@ -18,7 +18,7 @@
 				"source": {
 					"type": "git",
 					"url": "https://github.com/citation-style-language/locales.git",
-					"reference": "master"
+					"reference": "v1.0.2"
 				}
 			}
 		}
