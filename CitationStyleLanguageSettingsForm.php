@@ -22,7 +22,7 @@ use APP\template\TemplateManager;
 use PKP\form\Form;
 use PKP\form\validation\FormValidatorCSRF;
 use PKP\form\validation\FormValidatorPost;
-use PKP\notification\Notification;
+use APP\notification\Notification;
 use PKP\security\Role;
 
 class CitationStyleLanguageSettingsForm extends Form
