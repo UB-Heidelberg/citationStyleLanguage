@@ -899,7 +899,7 @@ class CitationStyleLanguagePlugin extends GenericPlugin
 
                 $userGroupId = $author->getUserGroupId();
                 switch (true) {
-                    case in_array($userGroupId, $editorsGroups) && $author->getIsVolumeEditor():
+                    case in_array($userGroupId, $editorsGroups):
                         if (!isset($citationData->editor)) {
                             $citationData->editor = [];
                         }
